@@ -1,0 +1,4 @@
+firebase-admin
+google-cloud-aiplatform
+Flask
+Jinja2
